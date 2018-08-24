@@ -1,0 +1,55 @@
+[
+    {
+        "itemName": "CAT6e Ethernet Cable, Plenum Rated, by foot",
+        "itemPrice": 1.25,
+        "itemQT": "foot",
+        "itemDescription": "1 foot of CAT6e Ethernet Cable",
+        "picURL": "https://store.dynacable.com/wp-content/uploads/2016/03/1-foot-green.gif"
+    },
+    {
+        "itemName": "CAT6e Ethernet Cable, Plenum Rated, 1000 ft. box",
+        "itemPrice": 89.95,
+        "itemQT": "box",
+        "itemDescription": "1000 foot box of CAT6e Ethernet Cable",
+        "picURL": "https://c1.neweggimages.com/NeweggImage/ProductImage/A30R_1_20170419720276814.jpg"
+    },
+    {
+        "itemName": "CAT6e Ethernet Cable, Plenum Rated, 10000 ft. spool",
+        "itemPrice": 438.22,
+        "itemQT": "spool",
+        "itemDescription": "10000 foot spool of CAT6e Ethernet Cable",
+        "picURL": "https://cdn.shopify.com/s/files/1/1230/4938/products/89-1243-cat6a-ethernet-cable-network-650-mhz-stp-ftp-shielded-cmr-certified-spool-blue-1000-ft-0.jpg?v=1512369638"
+    }
+    ,
+    {
+        "itemName": "SPAM",
+        "itemPrice": 0.75,
+        "itemQT": "ea",
+        "itemDescription": "1 can of SPAM",
+        "picURL": "https://i5.walmartimages.com/asr/cd89e869-61ec-4dc7-a2cf-4fd9032aacce_2.7fd544367e92537a7033e3adb52c5423.jpeg"
+    }
+    ,
+    {
+        "itemName": "Lightly Fried Fish Filets",
+        "itemPrice": 7.86,
+        "itemQT": "ea",
+        "itemDescription": "A lightly fried fish filet, farm raised.",
+        "picURL": "https://2.bp.blogspot.com/-7QXt9Ig0ll0/T5tEh1ADSnI/AAAAAAAAB1g/I10JIVAZljA/s1600/HCPpanfriedsole_2.JPG"
+    }
+    ,
+    {
+        "itemName": "Girl Scout Cookies",
+        "itemPrice": 3.25,
+        "itemQT": "ea",
+        "itemDescription": "1 box of addiction masqurading as Girl Scout Cookies",
+        "picURL": "https://www.girlscouts.org/content/dam/girlscouts-gsusa/images/Cookies/meet-the-cookies/Meet-the-Cookies4.jpg"
+    }
+    ,
+    {
+        "itemName": "NUKA Cola",
+        "itemPrice": 0.98,
+        "itemQT": "bottle",
+        "itemDescription": "1 bottle of NUKA cola. May or may not still be good",
+        "picURL": "https://cdn.shopify.com/s/files/1/0301/0501/products/t-shirts-enjoy-nuka-cola-1.png?v=1487958925"
+    }
+]

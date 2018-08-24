@@ -20,6 +20,7 @@ app.listen(PORT, function(){
 })
 
 app.get('/items', async (req, res) => {
+    //gets all items from items.json
     res.status(200).send(items)
 })
 
